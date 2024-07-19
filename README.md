@@ -13,4 +13,4 @@
 
 Github Repository : https://github.com/ekookten/SVG-Logo-Maker
 
-Demonstration Video Link: https://drive.google.com/drive/folders/1QIOu0XLrdv8ww5B9W01sKZ-ckTbttc9Y?usp=sharing
+Demonstration Video Link: https://drive.google.com/file/d/1jxThg4OWVcP0BWBxRe8poRX-I9OU4mv5/view?usp=sharing
